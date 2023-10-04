@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Türker</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <br>
-<p>For the past six months, I've committed over 500 hours to refining my coding skills and immersing myself in the world of software development. My architectural background has uniquely equipped me to blend aesthetics with functionality in the realm of web development. The projects I've tackled during my self-directed learning journey serve as tangible proof of my dedication. With a strong sense of enthusiasm and unwavering determination, I eagerly anticipate a career in front-end development.</p>
+<p>
+ For the past six months, I've committed over 500 hours to refining my coding skills and immersing myself in software development. My architectural background has uniquely equipped my imagination and problem solving skills by blending aesthetics with functionality in the realm of web development.The projects I've tackled during my self-directed learning journey serve as tangible proof of my dedication. With a strong sense of enthusiasm and unwavering determination, I eagerly anticipate a career in front-end development.
+</p>
 <br>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
