@@ -1,16 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Furkan Türker</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 <br>
 <p>
- For the past six months, I've committed over 500 hours to refining my coding skills and immersing myself in software development. My architectural background has uniquely equipped my imagination and problem solving skills by blending aesthetics with functionality in the realm of web development.The projects I've tackled during my self-directed learning journey serve as tangible proof of my dedication. With a strong sense of enthusiasm and unwavering determination, I eagerly anticipate a career in front-end development.
+ My software development journey began with front-end development, where I honed my skills in JavaScript and React to create dynamic and responsive user interfaces. As my passion for technology grew, I transitioned into Revit Add-in development, focusing on C# and the Revit API to build custom tools that enhance architectural workflows.
+
+I also leverage Dynamo to develop automation scripts, improving efficiency and reducing repetitive tasks. My unique combination of front-end development knowledge and expertise in Revit-based automation allows me to bridge the gap between design and development, creating innovative solutions that optimize both the user experience and project execution.
 </p>
 <br>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- :computer: I'm a Junior Frontend Developer
+- :computer: I'm a software developer
  
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning *c#**
 
 - 📫 How to reach me **furkantrkr13@gmail.com**
 
